@@ -1,9 +1,5 @@
-a {
+h1 {
     font-family: Cambria;
     color: red;
-    font-size: large;
-}
-
-a:hover{
-    color:blue;
+    letter-spacing: 4px;
 }
