@@ -9,17 +9,20 @@ h1 {
 h2{
     font-family: 'times new roman';
     color:darkolivegreen;
+    font-size: 24px;
+    margin: 20px;
 
 }
 
 div{
-    display: block;
+    display: flex;
 }
 
 .container {
     border: 2px solid #a2a2a6;
     padding: 10px;
     margin: 10px auto;
+    display: flex;
   }
 .color-container{
     width: 100%;
