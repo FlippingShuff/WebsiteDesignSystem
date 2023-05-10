@@ -100,26 +100,74 @@ div{
     float: left;
 }
 
+.font-panel{
+    display: block;
+
+}
+
 .foldit-headline {
     text-decoration: underline;
     font-size: 20px;
-    font-family: foldit;
+    font-family: 'foldit';
 }
 
 .foldit-regular{
-    font-family: Foldit;
+    font-family: 'foldit';
+    font-size: 16px;
 }
 
 .foldit-bold{
     font-style: bold;
+    font-size: 16px;
+    font-family: 'foldit';
 }
+
 
 .foldit-italic{
     font-style: italic;
+    font-size: 16px;
+    font-family: 'foldit';
 }
 
+.poppins-headline{
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Poppins';
+}
 
+.poppins-regular{
+    font-family: 'poppins';
+    font-size: 16px;
+}
 
+.poppins-bold{
+    font-style: bold;
+    font-size: 16px;
+    font-family: 'poppins';
+}
 
+.poppins-italic{
+    font-family: 'poppins';
+    font-style: italic;
+    font-family: 'poppins';
+}
 
-
+.dosis-headline{
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'dosis';
+}
+.dosis-regular{
+    font-family: 'dosis';
+    font-size: 16px;
+}
+.dosis-bold{
+    font-size: 16px;
+    font-family: 'dosis';
+    font-style: bold;
+}
+.dosis-italic{
+    font-size: 16px;
+    font-family: 'dosis';
+    font-style: italic;
+}
