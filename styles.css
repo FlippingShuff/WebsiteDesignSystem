@@ -108,17 +108,20 @@ div{
     text-decoration: underline;
     font-size: 20px;
     font-family: 'Foldit';
+    margin: 20px 0px;
 }
 
 .foldit-regular{
     font-family: 'Foldit';
     font-size: 16px;
+    margin: 16px 0px;
 }
 
 .foldit-bold{
     font-style: bold;
     font-size: 16px;
     font-family: 'foldit';
+    margin: 16px 0px;
 }
 
 
@@ -126,47 +129,56 @@ div{
     font-style: italic;
     font-size: 16px;
     font-family: 'foldit';
+    margin: 16px 0px;
 }
 
 .poppins-headline{
     text-decoration: underline;
     font-size: 20px;
     font-family: 'Poppins';
+    margin: 20px 0px;
 }
 
 .poppins-regular{
     font-family: 'poppins';
     font-size: 16px;
+    margin: 16px 0px;
 }
 
 .poppins-bold{
     font-style: bold;
     font-size: 16px;
     font-family: 'poppins';
+    margin: 16px 0px;
 }
 
 .poppins-italic{
     font-family: 'poppins';
     font-style: italic;
     font-family: 'poppins';
+    margin: 16px 0px;
 }
 
 .dosis-headline{
     text-decoration: underline;
     font-size: 20px;
     font-family: 'dosis';
+    margin: 20px 0px;
 }
 .dosis-regular{
     font-family: 'dosis';
     font-size: 16px;
+    margin: 16px 0px;
 }
 .dosis-bold{
     font-size: 16px;
     font-family: 'dosis';
     font-style: bold;
+    margin: 16px 0px;
 }
 .dosis-italic{
     font-size: 16px;
     font-family: 'dosis';
     font-style: italic;
+    margin: 16px 0px;
 }
