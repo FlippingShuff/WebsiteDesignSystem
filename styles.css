@@ -48,7 +48,7 @@ li{
     height: auto;
     padding: 20px;
     margin: 20px;
-    font-family: 'open sans';
+    font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
 }
@@ -59,7 +59,7 @@ li{
     height: auto;
     padding: 20px;
     margin: 20px;
-    font-family: 'open sans';
+    font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
 }
@@ -67,10 +67,10 @@ li{
     background-color: #D2691E;
     display: inline-block;
     width: 30%;
-    height: 50px;
+    height: auto;
     padding: 20px;
     margin: 20px;
-    font-family: 'open sans';
+    font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
 }
@@ -81,7 +81,7 @@ li{
     height: auto;
     padding: 20px;
     margin: 20px;
-    font-family: 'open sans';
+    font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
 }
@@ -92,7 +92,7 @@ li{
     height: auto;
     padding: 20px;
     margin: 20px;
-    font-family: 'open sans';
+    font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
 }
