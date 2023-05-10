@@ -29,10 +29,10 @@ div{
 .gray {
     background-color: #696969;
     display: inline-block;
-    width: 30%;
-    height: auto;
+    width: 32%;
+    min-height: 100px;
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
     font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
@@ -42,10 +42,10 @@ div{
 .red {
     background-color: #FF0000;
     display: inline-block;
-    width: 30%;
-    height: auto;
+    width: 32%;
+    min-height: 100px;
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
     font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
@@ -54,10 +54,10 @@ div{
 .white {
     background-color: #FFFAF0;
     display: inline-block;
-    width: 30%;
-    height: auto;
+    width: 32%;
+    min-height: 100px;
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
     font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
@@ -66,10 +66,10 @@ div{
 .brown {
     background-color: #D2691E;
     display: inline-block;
-    width: 30%;
-    height: auto;
+    width: 32%;
+    min-height: 100px;
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
     font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
@@ -78,10 +78,10 @@ div{
 .blue {
     background-color: #0000FF;
     display: inline-block;
-    width: 30%;
-    height: auto;
+    width: 32%;
+    min-height: 100px;
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
     font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
@@ -90,10 +90,10 @@ div{
 .green {
     background-color: #00FF7F;
     display: inline-block;
-    width: 30%;
-    height: auto;
+    width: 32%;
+    min-height: 100px;
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
     font-family: 'Poppins';
     font-size: 20px;
     text-align: center;
@@ -101,6 +101,7 @@ div{
 
 .font-panel{
     display: block;
+    width: 45%;
 
 }
 
