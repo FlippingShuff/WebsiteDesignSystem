@@ -19,7 +19,7 @@ h2{
     border: solid grey;
     padding: 10px;
     margin: 20px auto;
-    height: auto;
+    
 
 }
 
@@ -33,7 +33,7 @@ li{
     background-color: #696969;
     display: inline-block;
     width: 30%;
-    height: 50px;
+    height: auto;
     padding: 20px;
     margin: 20px;
     font-family: 'open sans';
@@ -43,9 +43,9 @@ li{
 
 .red {
     background-color: #FF0000;
-    display: block;
+    display: inline-block;
     width: 100px;
-    height: 50px;
+    height: auto;
     padding: 20px;
     margin: 20px;
     font-family: 'open sans';
@@ -54,9 +54,9 @@ li{
 }
 .white {
     background-color: #FFFAF0;
-    display: block;
+    display: inline-block;
     width: 100px;
-    height: 50px;
+    height: auto;
     padding: 20px;
     margin: 20px;
     font-family: 'open sans';
@@ -65,7 +65,7 @@ li{
 }
 .brown {
     background-color: #D2691E;
-    display: block;
+    display: inline-block;
     width: 100px;
     height: 50px;
     padding: 20px;
@@ -76,9 +76,9 @@ li{
 }
 .blue {
     background-color: #0000FF;
-    display: block;
+    display: inline-block;
     width: 100px;
-    height: 50px;
+    height: auto;
     padding: 20px;
     margin: 20px;
     font-family: 'open sans';
@@ -87,9 +87,9 @@ li{
 }
 .green {
     background-color: #00FF7F;
-    display: block;
+    display: inline-block;
     width: 100px;
-    height: 50px;
+    height: auto;
     padding: 20px;
     margin: 20px;
     font-family: 'open sans';
