@@ -100,10 +100,22 @@ div{
     float: left;
 }
 
-.foldit headline {
+.foldit-headline {
     text-decoration: underline;
     font-size: 20px;
     font-family: foldit;
+}
+
+.foldit-regular{
+    font-family: Foldit;
+}
+
+.foldit-bold{
+    font-style: bold;
+}
+
+.foldit-italic{
+    font-style: italic;
 }
 
 
