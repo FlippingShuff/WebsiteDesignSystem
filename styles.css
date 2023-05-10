@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 h1 {
     font-family: Cambria;
     color: red;
@@ -14,23 +18,81 @@ h2{
     border: solid grey;
     padding: 10px;
     margin: 20px;
+    height: auto;
 
 }
 
 li{
     float: left;
-    width: auto;
+    margin: 20px;
 
 }
 
 .gray {
     background-color: #696969;
     display: block;
-    width: 50px;
-    height: 30px;
+    width: 100px;
+    height: 50px;
     padding: 20px;
     margin: 20px;
     font-family: 'open sans';
-    font-size: 10px;
+    font-size: 20px;
     text-align: center;
 }
+
+.red {
+    background-color: #FF0000;
+    display: block;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'open sans';
+    font-size: 20px;
+    text-align: center;
+}
+.white {
+    background-color: #FFFAF0;
+    display: block;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'open sans';
+    font-size: 20px;
+    text-align: center;
+}
+.brown {
+    background-color: #D2691E;
+    display: block;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'open sans';
+    font-size: 20px;
+    text-align: center;
+}
+.blue {
+    background-color: #0000FF;
+    display: block;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'open sans';
+    font-size: 20px;
+    text-align: center;
+}
+.green {
+    background-color: #00FF7F;
+    display: block;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'open sans';
+    font-size: 20px;
+    text-align: center;
+}
+
