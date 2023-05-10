@@ -5,9 +5,9 @@ h1 {
 }
 
 h2{
-    font-family: Cambria;
+    font-family: 'times new roman';
     color:darkolivegreen;
-    
+
 }
 
 .colors {
@@ -17,7 +17,11 @@ h2{
 
 }
 
-.gray li{
+li{
+    float: left;
+}
+
+.gray {
     background-color: #696969;
     display: block;
     width: 50px;
