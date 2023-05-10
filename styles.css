@@ -4,6 +4,12 @@ h1 {
     letter-spacing: 4px;
 }
 
+h2{
+    font-family: Cambria;
+    color:darkolivegreen;
+    
+}
+
 .colors {
     border: solid grey;
     padding: 10px;
