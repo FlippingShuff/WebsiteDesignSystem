@@ -44,7 +44,7 @@ li{
 .red {
     background-color: #FF0000;
     display: inline-block;
-    width: 100px;
+    width: 30%;
     height: auto;
     padding: 20px;
     margin: 20px;
@@ -55,7 +55,7 @@ li{
 .white {
     background-color: #FFFAF0;
     display: inline-block;
-    width: 100px;
+    width: 30%;
     height: auto;
     padding: 20px;
     margin: 20px;
@@ -66,7 +66,7 @@ li{
 .brown {
     background-color: #D2691E;
     display: inline-block;
-    width: 100px;
+    width: 30%;
     height: 50px;
     padding: 20px;
     margin: 20px;
@@ -77,7 +77,7 @@ li{
 .blue {
     background-color: #0000FF;
     display: inline-block;
-    width: 100px;
+    width: 30%;
     height: auto;
     padding: 20px;
     margin: 20px;
@@ -88,7 +88,7 @@ li{
 .green {
     background-color: #00FF7F;
     display: inline-block;
-    width: 100px;
+    width: 30%;
     height: auto;
     padding: 20px;
     margin: 20px;
