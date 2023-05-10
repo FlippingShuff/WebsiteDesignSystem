@@ -19,6 +19,8 @@ h2{
 
 li{
     float: left;
+    width: auto;
+
 }
 
 .gray {
@@ -28,4 +30,7 @@ li{
     height: 30px;
     padding: 20px;
     margin: 20px;
+    font-family: 'open sans';
+    font-size: 10px;
+    text-align: center;
 }
