@@ -26,12 +26,6 @@ div{
 }
 
 
-li{
-    float: left;
-    margin: 20px;
-
-}
-
 .gray {
     background-color: #696969;
     display: inline-block;
