@@ -22,11 +22,11 @@ div{
     border: 2px solid #a2a2a6;
     padding: 10px;
     margin: 10px auto;
-    display: flex;
+    display: inline-flex;
   }
 .color-container{
     width: 100%;
-    display: flex;
+    display: inline-flex;
 }
 
 
