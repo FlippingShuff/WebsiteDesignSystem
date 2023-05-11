@@ -26,6 +26,7 @@ div{
   }
 .color-container{
     width: 100%;
+    display: flex;
 }
 
 
