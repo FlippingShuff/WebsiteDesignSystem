@@ -25,6 +25,7 @@ div{
     display: inline-flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    text-align: left;
   }
 .color-container{
     width: 100%;
