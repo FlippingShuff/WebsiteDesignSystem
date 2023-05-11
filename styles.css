@@ -24,6 +24,7 @@ div{
     margin: 10px auto;
     display: inline-flex;
     flex-wrap: wrap;
+    justify-content: space-around;
   }
 .color-container{
     width: 100%;
